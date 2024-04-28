@@ -4,9 +4,11 @@
 <img src="./assets/inm/anm_pousada-secreta_desktop.gif">
 
 ### Tópico
--[Descrição do projeto](#descrição-do-projeto)<br>
--[Linguagens utilizadas](#liguagens-utilizadas)<br>
--[Sobre e futuras melhorias](#sobre-e-futuras-melhorias)
+:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+
+:small_blue_diamond: [Linguagens utilizadas](#linguagens-utilizadas)
+
+:small_blue_diamond: [Sobre e futuras melhorias](#sobre-e-futuras-melhorias)
 
 ## Descrição do projeto
 <p>Projeto proposto pela DevMedia: construção de uma Webpágina para uma Pousada com layout flexível e navegação entre telas.</p>
